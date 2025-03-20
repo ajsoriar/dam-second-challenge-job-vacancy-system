@@ -1,0 +1,15 @@
+# editors
+.vscode
+.idea
+
+# dirs
+node_modules
+dist
+_.*
+
+# os
+.DS_Store
+Thumbs.db
+
+#extra
+db_connect.php

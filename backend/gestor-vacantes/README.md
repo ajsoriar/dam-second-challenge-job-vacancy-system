@@ -1,5 +1,7 @@
 # GestorVacantes
 
+La conexión con MySQL esta en el puerto 3306, usuario: root contraseña: (sin contraseña)
+
 This app was created with Bootify.io - tips on working with the code [can be found here](https://bootify.io/next-steps/).
 
 ## Development
